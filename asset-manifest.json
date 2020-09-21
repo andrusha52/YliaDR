@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YliaDR/static/css/main.ad0f0d0e.chunk.css",
+    "main.js": "/YliaDR/static/js/main.09fc0455.chunk.js",
+    "main.js.map": "/YliaDR/static/js/main.09fc0455.chunk.js.map",
+    "runtime-main.js": "/YliaDR/static/js/runtime-main.11bd9377.js",
+    "runtime-main.js.map": "/YliaDR/static/js/runtime-main.11bd9377.js.map",
+    "static/js/2.76b0790e.chunk.js": "/YliaDR/static/js/2.76b0790e.chunk.js",
+    "static/js/2.76b0790e.chunk.js.map": "/YliaDR/static/js/2.76b0790e.chunk.js.map",
+    "index.html": "/YliaDR/index.html",
+    "precache-manifest.a1f36ba7d223982a0410174da9669310.js": "/YliaDR/precache-manifest.a1f36ba7d223982a0410174da9669310.js",
+    "service-worker.js": "/YliaDR/service-worker.js",
+    "static/css/main.ad0f0d0e.chunk.css.map": "/YliaDR/static/css/main.ad0f0d0e.chunk.css.map",
+    "static/js/2.76b0790e.chunk.js.LICENSE.txt": "/YliaDR/static/js/2.76b0790e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11bd9377.js",
+    "static/js/2.76b0790e.chunk.js",
+    "static/css/main.ad0f0d0e.chunk.css",
+    "static/js/main.09fc0455.chunk.js"
+  ]
+}
